@@ -57,6 +57,7 @@ function App() {
     <div className="container my-3">
     <Switch>
     {/* /users --> Component 1
+        /checking
         /users/home --> Component 2 */}
           <Route exact path="/About">
             <About />
